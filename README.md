@@ -22,4 +22,4 @@ Prompt: சூரியனில் இருந்து பூமிக்க�
 (english): How long does it take for light to travel from the sun to the earth?
 You can see without translation, the GPT 3.5 response is not accurate. It did not get the answer of 8 min 20 seconds
 with translation layer, GPT 3.5 response is accurate. It got the answer of 8 minutes 20 seconds
-![Screenshot from 2024-04-08 23-06-37](https://github.com/Raghavan1988/translation_augmented_generation/assets/493090/c58a1d7f-0ac8-4287-bb6f-812260ad69f6)
+![tamil example screenshot](https://github.com/Raghavan1988/translation_augmented_generation/assets/493090/dc7fdd87-7f9d-4f62-ac52-6a3cb8ed2424)
